@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Defi<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Blockchain development<br>💬 Ask me about SOlidity,BLockchain<br>⚡ Fun fact - I am not a nerd
+🔭 I’m currently working on Defi<br>🤝 I’m looking for help with defi development<br>🌱 I’m currently learning Blockchain development<br>💬 Ask me about SOlidity,BLockchain<br>⚡ Fun fact - I am not a nerd
 
 
 ## 🌐 Socials:
