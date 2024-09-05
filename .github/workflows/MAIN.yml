@@ -17,7 +17,7 @@ jobs:
       - run: npm run type
       - run: npm run lint
       - run: npm run test --ci
-         input:
+         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   test-action:
