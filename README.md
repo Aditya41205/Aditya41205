@@ -22,6 +22,10 @@
 [![](https://visitcount.itsvg.in/api?id=Aditya41205&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
