@@ -22,6 +22,6 @@
 [![](https://visitcount.itsvg.in/api?id=Aditya41205&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
-(https://raw.githubusercontent.com/{Aditya41205}/{Aditya41205}/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
