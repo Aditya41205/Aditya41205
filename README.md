@@ -25,3 +25,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![snake gif](https://github.com/Aditya41205/Aditya41205/blob/output/github-contribution-grid-snake.svg)
+
