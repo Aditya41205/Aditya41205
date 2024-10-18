@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Defi
-lets code web3 together
+🔭 I’m currently working on Defi.
+Lets code web3 together
 
 
 ## 🌐 Socials:
