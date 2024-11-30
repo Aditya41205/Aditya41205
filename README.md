@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Defi.
+🔭 currently learning Defi.
 Lets make web3 better.
 
 
